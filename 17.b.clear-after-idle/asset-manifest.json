@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BotFramework-WebChat/17.b.clear-chat-history/static/css/main.f7ba653a.chunk.css",
+    "main.js": "/BotFramework-WebChat/17.b.clear-chat-history/static/js/main.acfc55f4.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/17.b.clear-chat-history/static/js/main.acfc55f4.chunk.js.map",
+    "runtime-main.js": "/BotFramework-WebChat/17.b.clear-chat-history/static/js/runtime-main.e1c3ec37.js",
+    "runtime-main.js.map": "/BotFramework-WebChat/17.b.clear-chat-history/static/js/runtime-main.e1c3ec37.js.map",
+    "static/js/2.795b19fa.chunk.js": "/BotFramework-WebChat/17.b.clear-chat-history/static/js/2.795b19fa.chunk.js",
+    "static/js/2.795b19fa.chunk.js.map": "/BotFramework-WebChat/17.b.clear-chat-history/static/js/2.795b19fa.chunk.js.map",
+    "index.html": "/BotFramework-WebChat/17.b.clear-chat-history/index.html",
+    "precache-manifest.8d3649ba96d748ff2f7b8eff77eb26fc.js": "/BotFramework-WebChat/17.b.clear-chat-history/precache-manifest.8d3649ba96d748ff2f7b8eff77eb26fc.js",
+    "service-worker.js": "/BotFramework-WebChat/17.b.clear-chat-history/service-worker.js",
+    "static/css/main.f7ba653a.chunk.css.map": "/BotFramework-WebChat/17.b.clear-chat-history/static/css/main.f7ba653a.chunk.css.map",
+    "static/js/2.795b19fa.chunk.js.LICENSE": "/BotFramework-WebChat/17.b.clear-chat-history/static/js/2.795b19fa.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1c3ec37.js",
+    "static/js/2.795b19fa.chunk.js",
+    "static/css/main.f7ba653a.chunk.css",
+    "static/js/main.acfc55f4.chunk.js"
+  ]
+}

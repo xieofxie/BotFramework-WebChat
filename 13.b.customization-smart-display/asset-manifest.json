@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BotFramework-WebChat/13.b.customization-smart-display/static/css/main.4000e9d9.chunk.css",
+    "main.js": "/BotFramework-WebChat/13.b.customization-smart-display/static/js/main.daab2c10.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/13.b.customization-smart-display/static/js/main.daab2c10.chunk.js.map",
+    "runtime-main.js": "/BotFramework-WebChat/13.b.customization-smart-display/static/js/runtime-main.f90f7df6.js",
+    "runtime-main.js.map": "/BotFramework-WebChat/13.b.customization-smart-display/static/js/runtime-main.f90f7df6.js.map",
+    "static/js/2.99178a8a.chunk.js": "/BotFramework-WebChat/13.b.customization-smart-display/static/js/2.99178a8a.chunk.js",
+    "static/js/2.99178a8a.chunk.js.map": "/BotFramework-WebChat/13.b.customization-smart-display/static/js/2.99178a8a.chunk.js.map",
+    "index.html": "/BotFramework-WebChat/13.b.customization-smart-display/index.html",
+    "precache-manifest.b715f06e98957729afff71f3447f2ecc.js": "/BotFramework-WebChat/13.b.customization-smart-display/precache-manifest.b715f06e98957729afff71f3447f2ecc.js",
+    "service-worker.js": "/BotFramework-WebChat/13.b.customization-smart-display/service-worker.js",
+    "static/css/main.4000e9d9.chunk.css.map": "/BotFramework-WebChat/13.b.customization-smart-display/static/css/main.4000e9d9.chunk.css.map",
+    "static/js/2.99178a8a.chunk.js.LICENSE": "/BotFramework-WebChat/13.b.customization-smart-display/static/js/2.99178a8a.chunk.js.LICENSE",
+    "static/media/index.css": "/BotFramework-WebChat/13.b.customization-smart-display/static/media/img102.10fc115d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f90f7df6.js",
+    "static/js/2.99178a8a.chunk.js",
+    "static/css/main.4000e9d9.chunk.css",
+    "static/js/main.daab2c10.chunk.js"
+  ]
+}
